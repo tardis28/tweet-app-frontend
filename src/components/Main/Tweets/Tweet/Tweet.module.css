@@ -1,0 +1,7 @@
+.name {
+  text-decoration: none;
+  color: rgb(142, 148, 202);
+}
+.name:hover {
+  color: black;
+}
